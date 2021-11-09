@@ -1,6 +1,6 @@
 # operating-systems
 
-For any technical interviews, you should have grasp on Operation System concepts. The below list of topics will help you to fast forward your interview preparation and get ahead.
+For any technical interviews, you should have grasp on Operation System concepts. The below list of topics will help you to fast forward your interview preparation and get ahead. Complete Roadmap for CSA/CSE/DMS/SE is [here](https://whimsical.com/cloud-support-associate-roadmap-S2unty6W9pqmMRGq77h2jk)
 
 Tips on preparing from this list
 Along with topic name, I've also included link where you can read about it. Do prepare each and every topic from this list.
@@ -9,54 +9,54 @@ Along with topic name, I've also included link where you can read about it. Do p
 
 [What is Operating system?](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 
-Types of OS?
+[Types of OS?](https://www.geeksforgeeks.org/types-of-operating-systems/)
 
-OS boot process?
+[OS boot process?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
 
-Process? process diagram?, stages of process execution?
+[Process? process diagram?, stages of process execution?](https://www.tutorialspoint.com/operating_system/os_processes.htm)
 
-Inter process communication
+[Inter process communication](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 
-process scheduling
+[Process scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
 
-CPU scheduling and algorithms, link2
+[CPU scheduling and algorithms](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/). This also includes notes of Babbar. 
 
-Process synchronization, link2 - critical section? mutex vs semaphore?
+Operating System [NOTES](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view) and [ROADMAP](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 
-System calls in OS
+[Process synchronization](https://www.guru99.com/process-synchronization.html), [link2](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) - [critical section?](https://www.javatpoint.com/os-critical-section-problem) [mutex vs semaphore?](https://www.tutorialspoint.com/mutex-vs-semaphore)
 
-Deadlock?, deadlock strategies
+[System calls in OS](https://www.guru99.com/system-call-operating-system.html)
 
-Deadlock avoidance, Deadlock prevention, Deadlock detection and recovery?
+[Deadlock?](https://www.javatpoint.com/os-deadlocks-introduction), [Deadlock strategies](https://www.javatpoint.com/os-strategies-for-handling-deadlock)
 
-Thread? user level thread vs kernel level thread?
+[Deadlock avoidance](https://www.javatpoint.com/os-deadlock-avoidance), [Deadlock prevention](https://www.javatpoint.com/os-deadlock-prevention), [Deadlock detection and recovery?](https://www.javatpoint.com/os-deadlock-detection-and-recovery)
 
-Process vs Thread?, link2
+[Thread? User level thread vs kernel level thread?](https://www.javatpoint.com/threads-in-operating-system)
 
-OS Memory management?, Paging?, Virtual Memory? Page Fault handling?
+[Process vs Thread?](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
 
-Segmentation?
+[OS Memory management?](https://www.geeksforgeeks.org/paging-in-operating-system/), [Paging?](https://www.geeksforgeeks.org/paging-in-operating-system/), [Virtual Memory?](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) [Page Fault handling?](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)
 
-Page replacement algorithms?, link2
+[Segmentation?](https://www.geeksforgeeks.org/segmentation-in-operating-system/)
 
-File systems?
+[Page replacement algorithms?](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
-File permissions
+[File systems?](https://www.guru99.com/file-systems-operating-system.html)
 
-Disk scheduling algorithm
+[File permissions](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
-linux commands
+[Disk scheduling algorithm](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)
 
-Linux run levels
+linux commands: Make a repository for the same, add commands in the same and then add the link of the repo here.
 
-Cache? cache vs RAM?
+[Linux run levels](https://www.geeksforgeeks.org/run-levels-linux/)
 
-Thrashing?
+[Cache?](https://www.tutorialspoint.com/What-is-caching) [cache vs RAM?](https://www.geeksforgeeks.org/difference-between-ram-and-cache/)
 
-daemon process?
+[Thrashing?](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)
 
-Zombie & orphan process?, link2 on how to kill zombie process
+[Daemon process?](https://notes.shichao.io/apue/ch13/)
 
+[Zombie](https://www.geeksforgeeks.org/zombie-and-orphan-processes-in-c/) & [orphan process?](https://www.geeksforgeeks.org/zombie-and-orphan-processes-in-c/), [link2](https://stackoverflow.com/questions/16944886/how-to-kill-zombie-process) on how to kill zombie process
 
-[Lets go to Quora](https://www.quora.com)
 
