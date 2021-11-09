@@ -19,7 +19,7 @@ Along with topic name, I've also included link where you can read about it. Do p
 
 [Process scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
 
-[CPU scheduling and algorithms](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/). This also includes notes of Babbar. 
+[CPU scheduling and algorithms](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/). 
 
 Operating System [NOTES](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view) and [ROADMAP](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 
