@@ -47,7 +47,7 @@ Operating System [NOTES](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xq
 
 [Disk scheduling algorithm](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)
 
-linux commands: Make a repository for the same, add commands in the same and then add the link of the repo here.
+[Linux commands](https://github.com/adityapandita97/operating-systems/blob/main/linux%20commands)
 
 [Linux run levels](https://www.geeksforgeeks.org/run-levels-linux/)
 
