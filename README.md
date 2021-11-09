@@ -7,7 +7,7 @@ Along with topic name, I've also included link where you can read about it. Do p
 
 **List of topics**
 
-What is Operating system?
+What is Operating system? Click [here](https://www.tutorialspoint.com/operating_system/os_overview.htm) for reference.
 
 Types of OS?
 
