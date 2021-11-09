@@ -1,5 +1,10 @@
 # operating-systems
 
+For any technical interviews, you should have grasp on Operation System concepts. The below list of topics will help you to fast forward your interview preparation and get ahead.
+
+Tips on preparing from this list
+Along with topic name, I've also included link where you can read about it. Do prepare each and every topic from this list.
+
 **List of topics**
 
 What is Operating system?
