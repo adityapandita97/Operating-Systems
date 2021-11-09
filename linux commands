@@ -1,4 +1,4 @@
-Networking commands
+Networking Commands:
 
 curl
 ping
@@ -9,7 +9,7 @@ nslookup
 dig
 
 
-File operations related
+File operations related:
 
 cd
 chmod
@@ -24,7 +24,7 @@ touch
 ls
 
 
-Resource utilisation
+Resource utilisation:
 
 df
 du
@@ -37,7 +37,7 @@ locate
 grep
 
 
-For general operations
+For general operations:
 
 cat
 echo
