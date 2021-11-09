@@ -2,8 +2,7 @@
 
 For any technical interviews, you should have grasp on Operation System concepts. The below list of topics will help you to fast forward your interview preparation and get ahead. Complete Roadmap for CSA/CSE/DMS/SE is [here](https://whimsical.com/cloud-support-associate-roadmap-S2unty6W9pqmMRGq77h2jk)
 
-Tips on preparing from this list
-Along with topic name, I've also included link where you can read about it. Do prepare each and every topic from this list.
+Operating System [NOTES](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view) and [ROADMAP](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 
 **List of topics**
 
@@ -20,8 +19,6 @@ Along with topic name, I've also included link where you can read about it. Do p
 [Process scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
 
 [CPU scheduling and algorithms](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/). 
-
-Operating System [NOTES](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view) and [ROADMAP](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 
 [Process synchronization](https://www.guru99.com/process-synchronization.html), [link2](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) - [critical section?](https://www.javatpoint.com/os-critical-section-problem) [mutex vs semaphore?](https://www.tutorialspoint.com/mutex-vs-semaphore)
 
