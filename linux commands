@@ -1,0 +1,60 @@
+Networking commands
+
+curl
+ping
+netstat
+telnet
+traceroute
+nslookup
+dig
+
+
+File operations related
+
+cd
+chmod
+chown
+mkdir
+rmdir
+pwd
+mv
+cp
+rm
+touch
+ls
+
+
+Resource utilisation
+
+df
+du
+free
+top
+ps
+Pattern Searching
+find
+locate
+grep
+
+
+For general operations
+
+cat
+echo
+whoami
+tail
+head
+less
+sudo, su
+kill
+man
+whatis
+shutdown
+passwd
+cron
+ssh
+clear
+Installing packages: yum install, apt-get install
+service
+diff
+wget
