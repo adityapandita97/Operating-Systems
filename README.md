@@ -1,4 +1,4 @@
-# operating-systems
+# operating-systems-QUESTIONS
 
 For any technical interviews, you should have grasp on Operation System concepts. The below list of topics will help you to fast forward your interview preparation and get ahead. Complete Roadmap for CSA/CSE/DMS/SE is [here](https://whimsical.com/cloud-support-associate-roadmap-S2unty6W9pqmMRGq77h2jk)
 
